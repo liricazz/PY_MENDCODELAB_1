@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('students_analysis_100.csv')
+df = pd.read_csv('DS_1.csv')
 
 print("Размер таблицы:", df.shape)
 print()
